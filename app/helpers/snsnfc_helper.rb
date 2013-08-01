@@ -1,0 +1,2 @@
+module SnsnfcHelper
+end
