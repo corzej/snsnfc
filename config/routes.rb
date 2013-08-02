@@ -1,4 +1,10 @@
 Snsnfc::Application.routes.draw do
+  get "snsnfc/home"
+  get "snsnfc/about"
+  get "snsnfc/blog"
+  get "snsnfc/team"
+  get "snsnfc/photo"
+  get "snsnfc/contact"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
